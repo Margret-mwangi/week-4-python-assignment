@@ -1,0 +1,5 @@
+This is the first time.
+Python is fun to learn and interactive.
+We are learning file handling.
+File handling is very useful.
+Let's complete this project!
